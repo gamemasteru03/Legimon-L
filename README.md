@@ -11,7 +11,7 @@ New worldmap
 
 New sprites 
 
-Currently only the male character has been modefied and its not even fully modefied so the game can be played but playble versions will be released on the releases tab for beta testing
+Currently only the male character has been modefied so the game can be played but playble versions will be released on the releases tab for testing
 
 All tools can be found in tools rar while the game can be found in rom 
 
